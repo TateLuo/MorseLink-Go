@@ -1,0 +1,25 @@
+.pio/build/freenove_esp32_s3_wroom/lib764/lvgl/misc/lv_anim_timeline.c.o: \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_anim_timeline.c \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_anim_private.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_anim.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../lv_conf_kconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_qspi/include/sdkconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/lv_conf.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_math.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_timer.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../tick/lv_tick.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../tick/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../tick/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_ll.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_assert.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_log.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../stdlib/lv_mem.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../stdlib/lv_string.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_anim_timeline_private.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/lv_anim_timeline.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/../stdlib/lv_string.h

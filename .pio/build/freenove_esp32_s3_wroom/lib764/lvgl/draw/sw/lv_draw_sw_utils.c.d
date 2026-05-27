@@ -1,0 +1,35 @@
+.pio/build/freenove_esp32_s3_wroom/lib764/lvgl/draw/sw/lv_draw_sw_utils.c.o: \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/lv_draw_sw_utils.c \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/lv_draw_sw_utils.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../lv_conf_kconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_qspi/include/sdkconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/lv_conf.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_area.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_math.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_color.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_assert.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_log.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/../stdlib/lv_mem.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/../stdlib/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/../stdlib/lv_string.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/../stdlib/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_palette.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_color.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../misc/lv_color_op.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/lv_display.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_timer.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/../tick/lv_tick.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/../tick/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/../tick/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_ll.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_event.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_array.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_color.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/draw/sw/../../display/../misc/lv_area.h

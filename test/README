@@ -1,0 +1,22 @@
+本目录用于 PlatformIO 测试与回归验证记录。
+
+## 自动化测试（建议）
+- `test_input_manager`：电源长按边界与双击窗口
+- `test_config_manager`：配置默认值、保存后重载一致性
+- `test_mqtt_manager`：重连退避与离线队列行为
+
+执行方式：
+```powershell
+pio test
+```
+
+## V1.8 手工回归清单（必须）
+- `TC-01` 清空配置后启动：应进入 AP 配网模式。
+- `TC-02` 配置 Wi-Fi/MQTT 后重启：应进入 ONLINE。
+- `TC-03` 路由器断开 60 秒再恢复：应自动重连并恢复在线。
+- `TC-04` MQTT 凭据错误：Wi-Fi 在线，MQTT 进入 BACKOFF，不阻塞 UI。
+- `TC-05` 注入 24%/14%/7% 电量：应触发 WARN/LIMIT/CRITICAL。
+- `TC-06` 菜单修改 `LED Brightness` 与 `TX Enable` 并保存：应立即生效且重启后保留。
+- `TC-07` 电源长按 1.2s/2.0s 边界：不应同一次按住触发开关机双事件。
+- `TC-08` 离线发布超过 32 条后恢复网络：应按队列补发并丢最旧。
+- `TC-09` 8 小时稳定性巡检：无死循环、无明显内存增长。

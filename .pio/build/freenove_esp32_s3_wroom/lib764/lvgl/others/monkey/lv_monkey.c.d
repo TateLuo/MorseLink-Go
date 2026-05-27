@@ -1,0 +1,27 @@
+.pio/build/freenove_esp32_s3_wroom/lib764/lvgl/others/monkey/lv_monkey.c.o: \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/lv_monkey.c \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/lv_monkey_private.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/lv_monkey.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../lv_conf_kconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_qspi/include/sdkconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/lv_conf.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/lv_indev.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../core/lv_group.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../core/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../core/../misc/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../core/../misc/lv_ll.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/lv_area.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/lv_math.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/lv_timer.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/../tick/lv_tick.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/../tick/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/../tick/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/lv_ll.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/lv_event.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/monkey/../../indev/../misc/lv_array.h

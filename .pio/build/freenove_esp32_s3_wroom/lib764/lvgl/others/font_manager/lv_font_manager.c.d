@@ -1,0 +1,32 @@
+.pio/build/freenove_esp32_s3_wroom/lib764/lvgl/others/font_manager/lv_font_manager.c.o: \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/lv_font_manager.c \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/lv_font_manager.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/lv_font.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../lv_conf_kconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_qspi/include/sdkconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/lv_conf.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../misc/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/lv_symbol_def.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/lv_draw_buf.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_area.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_math.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_color.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_assert.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_log.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/../stdlib/lv_mem.h \
+ c:\users\77037\documents\platformio\projects\morselink\.pio\libdeps\freenove_esp32_s3_wroom\lvgl\src\lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/../stdlib/lv_string.h \
+ c:\users\77037\documents\platformio\projects\morselink\.pio\libdeps\freenove_esp32_s3_wroom\lvgl\src\misc\lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_palette.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_color.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../misc/lv_color_op.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../stdlib/lv_string.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/lv_image_dsc.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../draw/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/others/font_manager/../../font/../misc/lv_area.h

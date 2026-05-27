@@ -1,0 +1,8 @@
+﻿项目级公共头文件目录。
+
+当前项目主要将头文件放在各模块目录 `lib/<Module>/src/` 中。
+公共类型放在 `lib/Common/src/`（例如 `AppState.h`、`DeviceConfig.h`）。
+
+建议：
+- 跨多个模块复用、且不属于单一模块的声明，可放入 `include/`
+- 强模块内聚的声明，保持在对应模块 `lib/<Module>/src/`

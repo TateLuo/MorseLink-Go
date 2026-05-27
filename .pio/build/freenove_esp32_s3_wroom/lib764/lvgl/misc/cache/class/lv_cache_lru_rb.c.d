@@ -1,0 +1,30 @@
+.pio/build/freenove_esp32_s3_wroom/lib764/lvgl/misc/cache/class/lv_cache_lru_rb.c.o: \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/lv_cache_lru_rb.c \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/lv_cache_lru_rb.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../lv_cache_private.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../lv_conf_kconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_qspi/include/sdkconfig.h \
+ C:/Users/77037/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/lv_conf.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../osal/lv_os_private.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../osal/lv_os.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../osal/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../osal/lv_os_none.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../lv_cache_entry.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../stdlib/lv_sprintf.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../stdlib/../misc/lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../stdlib/../lv_conf_internal.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_ll.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_types.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_rb_private.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_rb.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_assert.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_log.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../stdlib/lv_mem.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_rb.h \
+ .pio/libdeps/freenove_esp32_s3_wroom/lvgl/src/misc/cache/class/../../lv_iter.h
